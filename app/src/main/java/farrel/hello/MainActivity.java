@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-`
+
         tvNum1 = findViewById(R.id.tv_num_1);
         tvNum2 = findViewById(R.id.tv_num_2);
         tvAns = findViewById(R.id.tv_ans);
